@@ -87,7 +87,7 @@ export default function Chat() {
           </div>
         ))
       ) : (
-        <div className="border-gray-200sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
+        <div className="border-gray-200 sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <Image
               src="/scam-poet.png"
@@ -97,7 +97,7 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm an AI clone of Halim!
+              Welcome to Neo Assistance, the future of dark humor bartender automated system.
             </h1>
             <p className="text-gray-500">
               I'm part of a series of computational poetry experiments called{" "}
